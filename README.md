@@ -1,2 +1,3 @@
-# Website-Bookmark
- Google Chrome Extension to bookmark the website
+# Website-Bookmarker
+
+Google Chrome Extension to bookmark the website

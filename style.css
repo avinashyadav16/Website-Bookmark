@@ -14,12 +14,20 @@ input {
     margin-bottom: 5px;
 }
 
+
 button {
     color: white;
     background-color: #5f9341;
     padding: 10px 20px;
     font-weight: bold;
     border: solid 2px green;
+}
+
+
+#delete-btn {
+    background-color: white;
+    color: #5f9341;
+
 }
 
 
