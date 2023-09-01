@@ -1,3 +1,3 @@
-# Website-Bookmarker-Extension:
+# Website-Bookmarker-Extension: ![Alt text](image.png)
 
-Google Chrome Extension to bookmark the websites.
+**_Google Chrome Extension to bookmark the websites._**
